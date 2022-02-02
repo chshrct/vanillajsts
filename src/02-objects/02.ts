@@ -10,7 +10,7 @@ type addressType={
     streetTitle:string
     city:cityType
 }
-type studentType = {
+export type studentType = {
     name:string
     age:number
     isActive:boolean

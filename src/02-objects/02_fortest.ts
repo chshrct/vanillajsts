@@ -16,7 +16,7 @@ type addressGovType ={
     street:streetType
 }
 
-type governmentBuildingsType = {
+export type governmentBuildingsType = {
     type:string
     budget:number
     staffCount:number
