@@ -13,7 +13,7 @@ export const ManComponent:React.FC<PropsType> = ({title,man:{name},...props})=>{
         <h1>{title}</h1>
         <hr/>
         <div>
-            {name}xdxdxd
+            {name}
         </div>
     </div>
 }
